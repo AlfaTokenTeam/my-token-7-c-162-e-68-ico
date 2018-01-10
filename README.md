@@ -1,2 +1,11 @@
-# my-token-7-c-162-e-68-ico
-My Token 7C162E68 ICO Smart Contract
+# My Token 7C162E68 ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project My Token 7C162E68
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
